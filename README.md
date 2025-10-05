@@ -1,12 +1,24 @@
 # 🎡 Wheel Spin Inter'25
 
+_________
+ .-'   ___   '-.
+.' / \ '.
+/ | ☼ ☼ |
+: | ☼ | :
+| | ☼ ☼ ☼ | |
+: | ☼ | :
+\ | ☼ ☼ | /
+'. \ ___ / .'
+'-._________.-'
+
 [![Flutter](https://img.shields.io/badge/Flutter-3.24.0-blue?logo=flutter)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-3.5.0-0175C2?logo=dart)](https://dart.dev)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS%20%7C%20Desktop-lightgrey)]()
 [![Build with ❤️](https://img.shields.io/badge/Build%20with-%E2%9D%A4-red)]()
 
-Aplikasi **Wheel Spin Inter'25** adalah aplikasi berbasis Flutter yang digunakan untuk membagi anggota kelompok secara acak menggunakan roda putar (spin wheel).  
+Aplikasi **Wheel Spin Inter'25** adalah aplikasi berbasis Flutter yang digunakan untuk membagi anggota kelompok secara acak menggunakan roda putar (spin wheel).
+Proyek ini juga dikembangkan untuk submission proyek akhir pada IDCamp 2025, dengan learning path yang saya pilih yaitu AI Multi-platform App Developer.
 Proyek ini dikembangkan sebagai solusi praktis untuk membagi nama anggota ke dalam kelompok secara cepat, interaktif, dan menyenangkan.
 
 ---
@@ -16,7 +28,6 @@ Proyek ini dikembangkan sebagai solusi praktis untuk membagi nama anggota ke dal
 - 🎡 **Spin Wheel Interaktif**: Nama anggota dipilih secara acak dengan efek roda berputar.
 - ➖ **Nama Otomatis Terhapus**: Setelah nama terpilih, otomatis dihapus agar tidak terpilih lagi.
 - 📊 **Halaman Hasil**: Menampilkan hasil pembagian kelompok setelah semua nama terdistribusi.
-- 🔎 **Bug Fix Handling**: Perbaikan error saat hanya tersisa 1 nama di roda.
 - 🎨 **UI Simple & Clean**: Tampilan yang interaktif namun tetap ringan.
 
 ---
